@@ -2,7 +2,8 @@
 # منشورٍ في iNearo/permit-tool-releases — حزمةِ لينكس الجاهزة — لا من الشفرة.
 # فهذا الملفُّ وحده في مستودع الإصدارات العامّ، والشفرةُ تبقى في المستودع الخاصّ.
 #
-# كلُّ إصدارٍ جديدٍ يُحدّث ملفَّ VERSION بجانب هذا الملفّ، فيبني Railway وحده.
+# ولا يُحدَّث وحده: زرُّ «تحديث الآن» في الإعدادات يطلب من Railway بناءً جديداً
+# (بالمتغيّر RAILWAY_API_TOKEN — مفتاحُ المشروع)، فيجلب البناءُ آخرَ إصدار.
 # ولتثبيت إصدارٍ بعينه: اضبط متغيّرَ البناء PERMIT_VERSION (مثل 1.1.0).
 #
 # البيانات: اربط Volume بالمسار /app/data، أو اضبط DATABASE_URL لقاعدة Postgres —
@@ -18,7 +19,6 @@ RUN apt-get update \
 
 # ‏ADD من رابطٍ يُبطل ذاكرةَ البناء متى تغيّر الإصدارُ الأخير — فلا يبقى القديمُ مخبوءاً
 ADD https://api.github.com/repos/iNearo/permit-tool-releases/releases/latest /tmp/latest.json
-COPY Dockerfile VERSION* /tmp/
 ARG PERMIT_VERSION=""
 
 WORKDIR /opt
