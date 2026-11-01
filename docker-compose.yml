@@ -1,0 +1,18 @@
+# نظام التصاريح على أيّ سيرفرٍ فيه Docker (أو Coolify / CapRover / Dokploy):
+#
+#   docker compose up -d
+#
+# ثمّ افتح http://<عنوان-السيرفر>:8080 وأكمل الإعداد. البيانات والإعداد على
+# القرص «permit-data» فتبقى مع كلّ تحديث، والتحديثُ من داخل البرنامج:
+# الإعدادات ← التحديثات ← تحديث الآن.
+services:
+  permit-tool:
+    build: https://github.com/iNearo/permit-tool-releases.git#main
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    volumes:
+      - permit-data:/app/data
+
+volumes:
+  permit-data:

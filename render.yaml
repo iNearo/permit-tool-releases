@@ -1,0 +1,17 @@
+# زرّ «Deploy to Render»: خدمةٌ من هذا المستودع ومعها قرصٌ ثابت للبيانات.
+# القرص يحتاج باقةً مدفوعة (Starter فما فوق). والتحديث من داخل البرنامج،
+# فلا نشرَ تلقائياً.
+services:
+  - type: web
+    name: permit-tool
+    runtime: docker
+    repo: https://github.com/iNearo/permit-tool-releases
+    branch: main
+    dockerfilePath: ./Dockerfile
+    plan: starter
+    autoDeploy: false
+    healthCheckPath: /api/health
+    disk:
+      name: permit-data
+      mountPath: /app/data
+      sizeGB: 1
