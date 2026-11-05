@@ -1,0 +1,364 @@
+﻿اتفاقية ترخيص المستخدم النهائي — برنامج «تصريح عمل» (Permit Tool)
+END-USER LICENSE AGREEMENT — "Permit Tool"
+
+الإصدار ١٫٠ — نوفمبر ٢٠٢٦
+
+النصّ العربيّ هو المعتمد، والترجمة الإنجليزية في آخره للاطّلاع. وعند أيّ
+اختلافٍ بينهما يُعمل بالنصّ العربيّ.
+
+اقرأ هذه الاتفاقية قبل التثبيت. بالضغط على «أوافق»، أو بتثبيت البرنامج أو
+تشغيله أو استعماله، فإنّك تُقرّ بأنّك قرأتها، وبأنّ لك صلاحيةَ إلزام الجهة التي
+تمثّلها بها، وتوافق عليها باسمها. وإن لم توافق فلا تُثبّت البرنامج ولا تستعمله.
+
+——————————————————————————————————————
+١. الأطراف والتعريفات
+——————————————————————————————————————
+
+١-١ «المرخِّص»: عبدالله عادل الزهراني، مالكُ البرنامج ومطوّرُه.
+١-٢ «المرخَّص له» أو «العميل»: الشركةُ أو الجهةُ المذكور اسمُها في مفتاح
+     الترخيص، أو التي تستعمل البرنامج في فترة التجربة.
+١-٣ «البرنامج»: برنامجُ «تصريح عمل» بكلّ مكوّناته: الخادم، وبرنامج سطح المكتب،
+     و«زرّ الموظّفين»، والقوالب المدمجة، والتصاميم، والوثائق، وكلّ تحديثٍ أو
+     إصدارٍ لاحقٍ يُقدَّم للعميل.
+١-٤ «مفتاح الترخيص»: الرمزُ الموقَّع الذي يُصدره المرخِّص للعميل، ويُبيّن اسمَه
+     وتاريخَ انتهاء الترخيص إن وُجد.
+١-٥ «بيانات العميل»: كلُّ ما يُدخله العميل أو موظّفوه في البرنامج أو يُنتجونه
+     به: التصاريح، والحسابات، والقوالب المرفوعة، والشعارات، والإعدادات،
+     والنسخ الاحتياطية.
+١-٦ «المستخدمون المصرَّح لهم»: موظّفو العميل ومن يعمل لحسابه (كحرّاس الأمن)
+     ممّن يستعملون البرنامج في أعمال العميل.
+
+——————————————————————————————————————
+٢. منح الترخيص
+——————————————————————————————————————
+
+٢-١ يمنح المرخِّصُ العميلَ ترخيصاً غيرَ حصريّ، وغيرَ قابلٍ للتنازل أو الترخيص
+     من الباطن، محدوداً بمدّة مفتاح الترخيص، لتثبيت البرنامج وتشغيله على
+     الأجهزة والخوادم التي يملكها العميل أو يتحكّم فيها (ومنها الاستضافة
+     السحابية المستأجرة باسمه)، واستعماله في أعماله الداخلية، ومنها إصدارُ
+     تصاريح العمل في المراكز التي يديرها أو يخدمها.
+٢-٢ للعميل أن يُمكّن المستخدمين المصرَّح لهم من استعمال البرنامج، ويكون مسؤولاً
+     عن التزامهم بهذه الاتفاقية.
+٢-٣ للعميل أن يأخذ نسخاً احتياطيةً من البرنامج ومن بياناته بالقدر اللازم
+     لتشغيله وحفظه.
+٢-٤ كلُّ حقٍّ لم يُمنح صراحةً في هذه الاتفاقية محفوظٌ للمرخِّص.
+
+——————————————————————————————————————
+٣. فترة التجربة
+——————————————————————————————————————
+
+٣-١ يعمل البرنامج بلا مفتاحٍ مدّةَ أربعة عشر (١٤) يوماً من أوّل تشغيل، للتجربة
+     والتقييم فقط.
+٣-٢ بانتهاء فترة التجربة يتوقّف إنشاءُ التصاريح الجديدة حتّى يُدخَل مفتاحُ
+     ترخيصٍ صالح، ويبقى عرضُ ما صدر والأرشيفُ وصفحةُ التحقّق متاحةً.
+
+——————————————————————————————————————
+٤. القيود
+——————————————————————————————————————
+
+لا يجوز للعميل، ولا يأذن لغيره، دون إذنٍ كتابيٍّ مسبقٍ من المرخِّص:
+
+٤-١ بيعُ البرنامج أو تأجيرُه أو إعارتُه أو ترخيصُه من الباطن أو توزيعُه أو
+     إتاحتُه لغيره، أو تقديمُه خدمةً لطرفٍ ثالثٍ مقابلَ أجرٍ أو بدونه، خارج
+     أعمال العميل نفسه.
+٤-٢ نسخُ البرنامج إلا بالقدر المسموح في البند ٢.
+٤-٣ تعديلُ البرنامج أو ترجمتُه أو الاشتقاقُ منه أو دمجُ أيّ جزءٍ منه في عملٍ
+     آخر.
+٤-٤ الهندسةُ العكسية أو فكُّ التجميع أو محاولةُ استخراج الشفرة المصدرية أو
+     طريقة عملها، إلا في الحدود التي يُجيزها النظام صراحةً ولا يجوز الاتفاقُ
+     على خلافها.
+٤-٥ التحايلُ على مفتاح الترخيص أو فترة التجربة أو أيّ وسيلةٍ تقنيةٍ لحماية
+     البرنامج أو تعطيلُها، أو نقلُ مفتاح الترخيص إلى جهةٍ أخرى.
+٤-٦ إزالةُ إشعارات الملكية أو حقوق المؤلف أو تغييرُها.
+٤-٧ استعمالُ البرنامج في أيّ عملٍ مخالفٍ للأنظمة.
+
+——————————————————————————————————————
+٥. الملكية الفكرية
+——————————————————————————————————————
+
+٥-١ البرنامج مرخَّصٌ لا مَبيع. وجميعُ حقوق الملكية الفكرية فيه — ومنها حقوقُ
+     المؤلف والتصاميمُ والشفرةُ والعلاماتُ والشعار — ملكٌ خالصٌ للمرخِّص،
+     ومحميّةٌ بنظام حماية حقوق المؤلف في المملكة العربية السعودية والاتفاقيات
+     الدولية.
+٥-٢ إن قدّم العميل ملاحظاتٍ أو مقترحاتٍ لتحسين البرنامج، فللمرخِّص أن يستعملها
+     بلا مقابلٍ ولا التزام.
+
+——————————————————————————————————————
+٦. بيانات العميل والخصوصية
+——————————————————————————————————————
+
+٦-١ بياناتُ العميل ملكٌ له. وتُحفظ على أجهزته أو خوادمه أو في قاعدة البيانات
+     التي يختارها، ولا يصل إليها المرخِّص ولا يجمعها.
+٦-٢ يتّصل البرنامج بالإنترنت لأغراضٍ محدودة: التحقّقِ من وجود تحديثاتٍ وتنزيلها،
+     وقراءةِ قائمةٍ عامّةٍ بالتراخيص الملغاة. ولا يُرسَل في ذلك شيءٌ من بيانات
+     العميل.
+٦-٣ في البرنامج خدماتٌ اختيارية لطرفٍ ثالث لا تعمل إلا إذا فعّلها العميل بمفتاحه
+     (مثل الاستخراج بالذكاء الاصطناعي، وخدمة التحويل CloudConvert). وعند
+     تفعيلها يُرسَل إليها المحتوى اللازم لعملها، ويخضع ذلك لشروط تلك الجهات،
+     والعميلُ مسؤولٌ عن قرار تفعيلها.
+٦-٤ العميل هو جهةُ التحكّم في البيانات الشخصية التي يُدخلها (كأسماء العمّال
+     وهويّاتهم وأرقام جوّالاتهم)، وهو المسؤول عن جمعها ومعالجتها وحفظها وفق
+     نظام حماية البيانات الشخصية ولوائحه، وعن ضبط من يصل إلى البرنامج من
+     موظّفيه.
+٦-٥ صفحةُ التحقّق التي يفتحها رمزُ التصريح عامّةٌ لمن يحمل الرابط، وتعرض
+     بيانات التصريح كما طُبعت على ورقته. والعميلُ مسؤولٌ عمّا يكتبه في التصريح
+     وعمّن يُسلّم إليه الورقة.
+٦-٦ العميلُ مسؤولٌ عن أخذ نسخٍ احتياطيةٍ كافية من بياناته وحفظها في
+     مكانٍ آمن، ولا يتحمّل المرخِّص تبعةَ فقدها.
+
+——————————————————————————————————————
+٧. التحديثات والدعم
+——————————————————————————————————————
+
+٧-١ قد يُتيح المرخِّص تحديثاتٍ للبرنامج، وتسري عليها هذه الاتفاقية ما لم تصحبها
+     شروطٌ أخرى. ولا يلتزم المرخِّص بإصدار تحديثاتٍ أو بإضافة مزايا بعينها.
+٧-٢ الدعمُ الفنّي وأوقاتُه ونطاقُه يُتّفق عليها في عرض السعر أو العقد التجاري
+     بين الطرفين، ولا تُلزم هذه الاتفاقيةُ وحدها بدعم.
+
+——————————————————————————————————————
+٨. الرسوم
+——————————————————————————————————————
+
+٨-١ تُحدَّد رسومُ الترخيص ومدّتُه في عرض السعر أو الفاتورة أو العقد التجاري.
+٨-٢ الرسوم المدفوعة غيرُ مستردّة إلا فيما يوجبه النظام أو يُتّفق عليه كتابةً.
+
+——————————————————————————————————————
+٩. المدّة والإنهاء
+——————————————————————————————————————
+
+٩-١ تسري هذه الاتفاقية من أوّل تثبيتٍ أو استعمال، وتبقى ما بقي مفتاحُ الترخيص
+     ساريَ المفعول، أو حتّى نهاية فترة التجربة إن لم يُشترَ ترخيص.
+٩-٢ للمرخِّص إنهاءُ الترخيص أو إلغاءُ المفتاح إن أخلّ العميل بأيّ بندٍ جوهريٍّ
+     فيها، أو بالبند ٤، أو تأخّر في سداد الرسوم المستحقّة، بعد إشعاره كتابةً
+     وإمهاله أربعة عشر (١٤) يوماً لتصحيح الإخلال إن كان قابلاً للتصحيح.
+٩-٣ عند انتهاء الترخيص أو إنهائه: يتوقّف إنشاءُ التصاريح الجديدة، ويبقى للعميل
+     عرضُ ما صدر وتنزيلُه، وأرشيفُه، وصفحةُ التحقّق، وأخذُ نسخةٍ احتياطيةٍ من
+     بياناته — فبياناتُ العميل لا تُحتجز.
+٩-٤ تبقى البنود ٤ و٥ و٦ و١٠ و١١ و١٢ ساريةً بعد انتهاء الاتفاقية.
+
+——————————————————————————————————————
+١٠. إخلاء الضمان
+——————————————————————————————————————
+
+١٠-١ يُقدَّم البرنامج «كما هو» و«حسب توفّره». وإلى أقصى حدٍّ يُجيزه النظام، لا
+      يقدّم المرخِّص أيّ ضمانٍ صريحٍ أو ضمنيّ، ومنه ضمانُ الصلاحية لغرضٍ معيّن،
+      أو خلوِّ البرنامج من الأخطاء، أو عملِه بلا انقطاع.
+١٠-٢ التعبئةُ الآلية للخانات من رسائل العملاء مساعدةٌ لا يُعتمد عليها وحدها،
+      والعميلُ مسؤولٌ عن مراجعة كلّ تصريحٍ قبل اعتماده، وعن صحّة ما فيه، وعن
+      قراراته في السماح بالدخول أو العمل.
+١٠-٣ البرنامج أداةٌ لتنظيم التصاريح، ولا يُغني عن إجراءات الأمن والسلامة التي
+      تفرضها الأنظمةُ أو الجهاتُ المختصّة أو المراكزُ نفسها.
+
+——————————————————————————————————————
+١١. تحديد المسؤولية
+——————————————————————————————————————
+
+١١-١ إلى أقصى حدٍّ يُجيزه النظام، لا يكون المرخِّص مسؤولاً عن أيّ أضرارٍ غير
+      مباشرة أو تبعية أو خاصّة، ومنها فواتُ الربح أو الإيراد، أو فقدُ البيانات،
+      أو توقّفُ الأعمال، أو الغراماتُ النظامية، ولو أُبلغ باحتمال وقوعها.
+١١-٢ لا يتجاوز مجموعُ مسؤولية المرخِّص عن أيّ مطالبةٍ تتعلّق بالبرنامج أو بهذه
+      الاتفاقية مجموعَ ما دفعه العميل فعلاً للمرخِّص مقابلَ الترخيص خلال الاثني
+      عشر (١٢) شهراً السابقة للواقعة. وفي فترة التجربة لا مسؤوليةَ ماليةً على
+      المرخِّص.
+١١-٣ لا يحدّ هذا البند من مسؤوليةٍ لا يجوز نظاماً تحديدُها، كالمسؤولية عن الغشّ
+      أو الخطأ الجسيم المتعمَّد.
+
+——————————————————————————————————————
+١٢. النظام الواجب التطبيق وتسوية النزاعات
+——————————————————————————————————————
+
+١٢-١ تخضع هذه الاتفاقية وتُفسَّر وفق الأنظمة المعمول بها في المملكة العربية
+      السعودية.
+١٢-٢ يسعى الطرفان إلى حلّ أيّ خلافٍ ودّياً خلال ثلاثين (٣٠) يوماً من إشعارٍ كتابيٍّ
+      به. فإن تعذّر ذلك، فالاختصاصُ للمحاكم المختصّة في المملكة العربية
+      السعودية.
+
+——————————————————————————————————————
+١٣. أحكام عامّة
+——————————————————————————————————————
+
+١٣-١ هذه الاتفاقية، مع عرض السعر أو العقد التجاري إن وُجد، هي كاملُ الاتفاق بين
+      الطرفين بشأن الترخيص. وعند التعارض يُقدَّم ما في العقد التجاري الموقَّع.
+١٣-٢ إن بطل أيُّ بندٍ أو تعذّر تنفيذُه، بقيت سائرُ البنود نافذة، ويُستبدل بالبند
+      الباطل أقربُ حكمٍ صحيحٍ إلى مقصوده.
+١٣-٣ لا يُعدّ تأخّرُ أيّ طرفٍ في استعمال حقٍّ تنازلاً عنه.
+١٣-٤ لا يجوز للعميل التنازلُ عن هذه الاتفاقية أو عن حقوقه فيها دون موافقةٍ كتابيةٍ
+      من المرخِّص. وللمرخِّص التنازلُ عنها لمن تنتقل إليه ملكيةُ البرنامج.
+١٣-٥ للمرخِّص تعديلُ هذه الاتفاقية في الإصدارات اللاحقة من البرنامج، ويسري
+      التعديلُ على العميل من تثبيته الإصدارَ الذي يتضمّنه أو استعماله.
+١٣-٦ تُوجَّه الإشعاراتُ كتابةً إلى عنوان كلّ طرفٍ المذكور في عرض السعر أو العقد
+      التجاري أو الفاتورة، أو بالبريد الإلكتروني المعتمد بينهما.
+
+© ٢٠٢٦ عبدالله عادل الزهراني. جميع الحقوق محفوظة.
+
+
+======================================================================
+ENGLISH TRANSLATION (for reference — the Arabic text prevails)
+======================================================================
+
+Read this Agreement before installing. By clicking "I accept", or by
+installing, running or using the Software, you confirm that you have read
+it, that you are authorised to bind the organisation you represent, and that
+you accept it on its behalf. If you do not agree, do not install or use the
+Software.
+
+1. PARTIES AND DEFINITIONS
+1.1 "Licensor": Abdullah Adel Alzahrani, owner and developer of the Software.
+1.2 "Licensee" or "Customer": the company or organisation named in the
+    License Key, or using the Software during the trial period.
+1.3 "Software": Permit Tool and all its components — server, desktop
+    application, "employee button", built-in templates, designs,
+    documentation, and any update or later version provided to the Customer.
+1.4 "License Key": the signed code issued by the Licensor that states the
+    Customer's name and, where applicable, the expiry date.
+1.5 "Customer Data": everything the Customer or its staff enter into or
+    produce with the Software: permits, accounts, uploaded templates, logos,
+    settings and backups.
+1.6 "Authorised Users": the Customer's employees and persons acting for it
+    (such as security guards) who use the Software for the Customer's business.
+
+2. LICENSE GRANT
+2.1 The Licensor grants the Customer a non-exclusive, non-transferable,
+    non-sublicensable licence, limited to the term of the License Key, to
+    install and run the Software on devices and servers that the Customer
+    owns or controls (including cloud hosting rented in its name) and to use
+    it for its internal business, including issuing work permits at the
+    centres it manages or serves.
+2.2 The Customer may allow Authorised Users to use the Software and is
+    responsible for their compliance with this Agreement.
+2.3 The Customer may make backup copies of the Software and of its data as
+    needed to operate and preserve them.
+2.4 All rights not expressly granted are reserved by the Licensor.
+
+3. TRIAL
+3.1 Without a key the Software runs for fourteen (14) days from first start,
+    for trial and evaluation only.
+3.2 When the trial ends, creating new permits stops until a valid key is
+    entered; viewing issued permits, the archive and the verification page
+    remain available.
+
+4. RESTRICTIONS
+Without the Licensor's prior written consent, the Customer shall not, and
+shall not permit others to:
+4.1 sell, rent, lend, sublicense, distribute or make the Software available
+    to others, or provide it as a service to any third party, paid or not,
+    outside the Customer's own business;
+4.2 copy the Software except as allowed in clause 2;
+4.3 modify, translate, create derivative works of, or incorporate any part
+    of the Software into another work;
+4.4 reverse engineer, decompile or attempt to derive the source code or how
+    it works, except to the extent expressly permitted by law that cannot be
+    contractually excluded;
+4.5 circumvent or disable the License Key, the trial period or any technical
+    protection, or transfer the License Key to another entity;
+4.6 remove or alter any ownership or copyright notices;
+4.7 use the Software for any unlawful purpose.
+
+5. INTELLECTUAL PROPERTY
+5.1 The Software is licensed, not sold. All intellectual property rights in
+    it — including copyright, designs, code, marks and logo — belong
+    exclusively to the Licensor and are protected by the Copyright Law of the
+    Kingdom of Saudi Arabia and international treaties.
+5.2 The Licensor may use any feedback or suggestions from the Customer
+    without charge or obligation.
+
+6. CUSTOMER DATA AND PRIVACY
+6.1 Customer Data belongs to the Customer. It is stored on the Customer's
+    devices, servers or chosen database; the Licensor does not access or
+    collect it.
+6.2 The Software connects to the internet for limited purposes: checking for
+    and downloading updates, and reading a public list of revoked licences.
+    No Customer Data is sent for these purposes.
+6.3 Optional third-party services (such as AI extraction and the CloudConvert
+    conversion service) work only when the Customer enables them with its own
+    key. When enabled, the content they need is sent to them under their own
+    terms, and the Customer is responsible for enabling them.
+6.4 The Customer is the controller of personal data it enters (such as
+    workers' names, ID numbers and mobile numbers) and is responsible for
+    collecting, processing and keeping it in accordance with the Personal
+    Data Protection Law and its regulations, and for controlling which staff
+    can access the Software.
+6.5 The verification page opened by a permit's QR code is public to anyone
+    holding the link and shows the permit's details as printed on it. The
+    Customer is responsible for what it writes in a permit and to whom it
+    hands the paper.
+6.6 The Customer is responsible for keeping adequate backups of its data in
+    a safe place; the Licensor is not liable for their loss.
+
+7. UPDATES AND SUPPORT
+7.1 The Licensor may provide updates, which are governed by this Agreement
+    unless accompanied by other terms. The Licensor is not obliged to release
+    updates or any particular feature.
+7.2 Technical support, its hours and scope are agreed in the quotation or
+    commercial contract; this Agreement alone creates no support obligation.
+
+8. FEES
+8.1 Licence fees and term are set in the quotation, invoice or commercial
+    contract.
+8.2 Fees paid are non-refundable except as required by law or agreed in
+    writing.
+
+9. TERM AND TERMINATION
+9.1 This Agreement applies from first installation or use and remains in
+    force while the License Key is valid, or until the end of the trial if no
+    licence is purchased.
+9.2 The Licensor may terminate the licence or revoke the key if the Customer
+    materially breaches this Agreement, breaches clause 4, or fails to pay
+    fees due, after written notice and fourteen (14) days to cure where the
+    breach can be cured.
+9.3 On expiry or termination, creating new permits stops; the Customer keeps
+    the ability to view and download issued permits, its archive, the
+    verification page, and to take a backup of its data — Customer Data is
+    never held back.
+9.4 Clauses 4, 5, 6, 10, 11 and 12 survive termination.
+
+10. DISCLAIMER OF WARRANTY
+10.1 The Software is provided "as is" and "as available". To the maximum
+     extent permitted by law, the Licensor gives no express or implied
+     warranty, including fitness for a particular purpose, freedom from
+     errors, or uninterrupted operation.
+10.2 Automatic filling of fields from customer messages is an aid that must
+     not be relied on alone; the Customer is responsible for reviewing each
+     permit before approving it, for its accuracy, and for its own decisions
+     to allow entry or work.
+10.3 The Software is a tool for organising permits and does not replace the
+     safety and security procedures required by law, the authorities or the
+     centres themselves.
+
+11. LIMITATION OF LIABILITY
+11.1 To the maximum extent permitted by law, the Licensor is not liable for
+     any indirect, consequential or special damages, including loss of
+     profit or revenue, loss of data, business interruption or regulatory
+     fines, even if advised of their possibility.
+11.2 The Licensor's total liability for any claim relating to the Software or
+     this Agreement shall not exceed the amounts actually paid by the
+     Customer to the Licensor for the licence in the twelve (12) months
+     before the event. During the trial the Licensor has no financial
+     liability.
+11.3 This clause does not limit liability that cannot lawfully be limited,
+     such as for fraud or wilful gross misconduct.
+
+12. GOVERNING LAW AND DISPUTES
+12.1 This Agreement is governed by and construed under the laws in force in
+     the Kingdom of Saudi Arabia.
+12.2 The parties shall try to settle any dispute amicably within thirty (30)
+     days of written notice. Failing that, the competent courts of the
+     Kingdom of Saudi Arabia have jurisdiction.
+
+13. GENERAL
+13.1 This Agreement, with any quotation or commercial contract, is the entire
+     agreement on the licence. In case of conflict, a signed commercial
+     contract prevails.
+13.2 If any clause is invalid or unenforceable, the rest remain in force and
+     the invalid clause is replaced by the closest valid provision.
+13.3 Delay in exercising a right is not a waiver of it.
+13.4 The Customer may not assign this Agreement or its rights without the
+     Licensor's written consent. The Licensor may assign it to any successor
+     in ownership of the Software.
+13.5 The Licensor may amend this Agreement in later versions of the
+     Software; the amendment applies to the Customer from installing or using
+     the version that contains it.
+13.6 Notices are given in writing to each party's address in the quotation,
+     commercial contract or invoice, or by the email agreed between them.
+
+© 2026 Abdullah Adel Alzahrani. All rights reserved.
